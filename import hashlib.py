@@ -65,7 +65,7 @@ def retrieve_vehicle():
 
 
 def display_menu():
-    print("\n===== VEHICLE & CRYPTO SYSTEM =====")
+    print("\n VEHICLE ")
     print("1. Generate SHA-256 Hash")
     print("2. Digital Signature")
     print("3. Register Vehicle")
