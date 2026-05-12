@@ -65,15 +65,20 @@ def retrieve_vehicle():
 
 
 def display_menu():
+<<<<<<< Updated upstream
     print("\n VEHICLE ")
+=======
+    print("\n VEHICLE")
+>>>>>>> Stashed changes
     print("1. Generate SHA-256 Hash")
     print("2. Digital Signature")
     print("3. Register Vehicle")
     print("4. Retrieve Vehicle")
     print("5. Exit")
+    
 
 
-def main():
+def main(): 
     while True:
         display_menu()
 
