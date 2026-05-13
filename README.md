@@ -15,5 +15,15 @@ Run the script from the repository folder:
 ```bash
 python3 "import hashlib.py"
 ```
+Output value 1 & 2
+<img width="1022" height="749" alt="output 1 and 2 " src="https://github.com/user-attachments/assets/4321f98f-45f5-4cc9-b449-1c3d1ff2f180" />
 
-<img width="1055" height="722" alt="Screenshot 2026-05-13 at 5 37 17 pm" src="https://github.com/user-attachments/assets/c1abbd76-e74c-4221-9d58-f5ab26fc7dca" />
+Output value 3 & 4
+
+<img width="1052" height="735" alt="output 3 and 4" src="https://github.com/user-attachments/assets/500e5d3d-99a9-47af-9f51-e4ff043b3176" />
+
+Output value 4 
+
+<img width="1052" height="735" alt="output 3 and 4" src="https://github.com/user-attachments/assets/159b7c47-e4c7-4de5-bf13-b2a53a5ed6ee" />
+
+
