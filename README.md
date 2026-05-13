@@ -1,5 +1,3 @@
-<img width="1055" height="722" alt="Screenshot 2026-05-13 at 5 37 17 pm" src="https://github.com/user-attachments/assets/758d430a-8adc-442d-b1cb-681412a8898b" /># Vehicle Crypto Console
-
 A menu driven console app for vehicle registration.
 
 ## Input values
