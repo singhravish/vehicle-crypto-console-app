@@ -23,7 +23,7 @@ Output value 3 & 4
 <img width="1052" height="735" alt="output 3 and 4" src="https://github.com/user-attachments/assets/500e5d3d-99a9-47af-9f51-e4ff043b3176" />
 
 Output value 4 
+<img width="997" height="731" alt="0utput 4" src="https://github.com/user-attachments/assets/154da001-5989-4657-8a58-331070a230c6" />
 
-<img width="1052" height="735" alt="output 3 and 4" src="https://github.com/user-attachments/assets/159b7c47-e4c7-4de5-bf13-b2a53a5ed6ee" />
 
 
