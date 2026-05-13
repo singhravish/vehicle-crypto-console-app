@@ -1,4 +1,4 @@
-# Vehicle Crypto Console
+<img width="1055" height="722" alt="Screenshot 2026-05-13 at 5 37 17 pm" src="https://github.com/user-attachments/assets/758d430a-8adc-442d-b1cb-681412a8898b" /># Vehicle Crypto Console
 
 A menu driven console app for vehicle registration.
 
@@ -18,57 +18,3 @@ Run the script from the repository folder:
 python3 "import hashlib.py"
 ```
 
-## Sample output
-
-```
-===== VEHICLE  =====
-1. Generate SHA-256 Hash
-2. Digital Signature
-3. Register Vehicle
-4. Retrieve Vehicle
-5. Exit
-Enter your choice: 3
-Enter Number Plate: DL01A2345
-Enter Owner Name: SURAJ
-Enter Vehicle Model: HERO HONDA
-Vehicle registered successfully!
-
-===== VEHICLE  =====
-1. Generate SHA-256 Hash
-2. Digital Signature
-3. Register Vehicle
-4. Retrieve Vehicle
-5. Exit
-Enter your choice: 4
-Enter Number Plate to Search: DL01A2345
-
-Vehicle Found
-Number Plate: DL01A2345
-Owner: SURAJ
-Model: HERO HONDA
-
-===== VEHICLE  =====
-1. Generate SHA-256 Hash
-2. Digital Signature
-3. Register Vehicle
-4. Retrieve Vehicle
-5. Exit
-Enter your choice: 4
-Enter Number Plate to Search: WB38A4567
-Vehicle not found.
-
-===== VEHICLE =====
-1. Generate SHA-256 Hash
-2. Digital Signature
-3. Register Vehicle
-4. Retrieve Vehicle
-5. Exit
-Enter your choice: Enter text to hash: SHA-256 Hash: 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
-
-===== VEHICLE  =====
-1. Generate SHA-256 Hash
-2. Digital Signature
-3. Register Vehicle
-4. Retrieve Vehicle
-5. Exit
-Enter your choice: Exiting application...
