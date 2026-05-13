@@ -16,3 +16,4 @@ Run the script from the repository folder:
 python3 "import hashlib.py"
 ```
 
+<img width="1055" height="722" alt="Screenshot 2026-05-13 at 5 37 17 pm" src="https://github.com/user-attachments/assets/c1abbd76-e74c-4221-9d58-f5ab26fc7dca" />
